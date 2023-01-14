@@ -5,7 +5,7 @@ author: Scott Chacon and Ben Straub
 year: 2014
 doi: 10.1007/978-1-4842-0076-6_3
 ---
-# Content
+# Contents
 
 [1. Getting Started](./1.%20Getting%20Started.md)
 
